@@ -5,4 +5,4 @@ on:[push]
       runs-on: ubuntu-latest
       step:
       - name: my-step
-        run: echo
+        run: echo "hello world"
